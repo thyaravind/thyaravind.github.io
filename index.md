@@ -11,7 +11,7 @@ Or check out the code [here]
 # My work projects
 
 ## Machine learning
-**[EneryInnovations]**(https://github.com/thyaravind/EnergyInnovations-ML) is a data exploration and machine learning project which I did
+**[EneryInnovations](https://github.com/thyaravind/EnergyInnovations-ML)** is a data exploration and machine learning project which I did
 when I was interning at Arizona State University's Facilities management. I was involved right from the data collection and 
 I used Neural Networks to accurately predict Building's Energy demand.
 
