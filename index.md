@@ -4,7 +4,7 @@ Here are my projects which I completed either out of my curiosity or as a practi
 
 # My Curiosity projects
 **The I/O project** is the result of my curiosity to find out the correlations between our food intake, sleep, activity and our performance.
-Read my in detailed explanation about this project on my blog [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
+Read my detailed explanation about this project on my blog series [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
 Or check out the code [here]
 
 
