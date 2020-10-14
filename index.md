@@ -21,6 +21,6 @@ I used Neural Networks to accurately predict Building's Energy demand.
 
 # Other projects
 
-## Data Visualization
+## Exploratory Data Analysis
 **[CO2 Emissions Dataset]**: This is a exploratory and practise project where I used pandas and matplotlib libraries to visualize
-the data from CO2 Emissions dataset which was originally posted on [Kaggle].
+the data from CO2 Emissions dataset which was originally posted on [Kaggle](https://www.kaggle.com/thyaravind/eda-emissions-footprint).
