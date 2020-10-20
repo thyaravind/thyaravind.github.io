@@ -7,9 +7,9 @@ These are the projects which I did/do just to answer the questions which arise i
 
 **The I/O project** is the result of my curiosity to find out the correlations between our food intake, sleep, activity and our performance.
 Read my detailed explanation about this project on my blog series [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
-Or check out the code [here]
+Or check out the code [here](https://github.com/thyaravind/IO)
 
-**The Dream project** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here]
+**The Dream project** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
 
 
 # Work projects
@@ -19,19 +19,23 @@ Or check out the code [here]
 when I was working at Arizona State University's Facilities Management. I was involved right from the data collection and 
 I used Neural Networks to accurately predict Building's Energy demand.
 
-**[EnergyInnovations-ProjectMonitor]** While I was at ASU, I took an initiative to create a central database and a flask app, to monitor and trck Energy conservation projects at ASU. App can be accessed upon [request](mailto:asamala1@asu.edu).
+**[EnergyInnovations-ProjectMonitor]** While I was at ASU, I took an initiative to create a central database and a flask app, to monitor and track Energy conservation projects at ASU. App can be accessed upon [request](mailto:asamala1@asu.edu).
 
 ## Jotjoy
-**[Jotjoy Customer Analysis]** At Jotjoy, we achieved sales right from the day one. But, we needed more robust marketing strategy inorder to scale up. So, we embarked on Customer Analysis using the order transactions and CRM data which we have. No wonder why Jotjoy's sales increased 23% after implementation of Cusotmer Analysis and Online experimentation.
+**[Jotjoy Customer Analysis](https://github.com/thyaravind/Jotjoy)** At Jotjoy, we achieved sales right from the day one. But, we needed more robust marketing strategy inorder to scale up. So, we embarked on Customer Analysis using the order transactions and CRM data which we have. No wonder why Jotjoy's sales increased 23% after implementation of Cusotmer Analysis and Online experimentation.
+*note: Visualizations and Customer data is masked due to privacy reasons.
 
 ## Rewind App
-**[Rewind App](https://github.com/thyaravind/RewindNet)** I was asked to develop a machine learning model by my friends at ASU who embarked on their journey of starting a startup. I developed a face recognition model, a recommedation system and speech recognition model using some open source libraries and pre-trained models.
+**[RewindNet](https://github.com/thyaravind/RewindNet)** I was asked to develop a machine learning model by my friends at ASU who embarked on their journey of starting a startup. I developed a face recognition model, a recommedation system and speech recognition model using some open source libraries and pre-trained models.
 
 
 # Other projects
+
+## Machine learning
+**[Depression Detect](https://github.com/thyaravind/Depression_detection)** After my graduation, I needed some project to hone my deep learning skills. So, myself along with 4 others started working on a summer project to detect depression using speech.
+
 
 ## Exploratory Data Analysis
 **[CO2 Emissions Dataset]**: This is a exploratory and practise project where I used pandas and matplotlib libraries to visualize
 the data from CO2 Emissions dataset which was originally posted on [Kaggle](https://www.kaggle.com/thyaravind/eda-emissions-footprint).
 
-**[Depression Detect](https://github.com/thyaravind/Depression_detection)** After my graduation, I needed some project to hone my deep learning skills. So, myself along with 4 others started working on a summer project to detect depression using speech.
