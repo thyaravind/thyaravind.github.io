@@ -9,10 +9,16 @@ These are the projects which I did/do just to answer the questions which arise i
 Read my detailed explanation about this project on my blog series [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
 Or check out the code [here](https://github.com/thyaravind/IO)
 
+**Job Application tracker:** I built this to save my time visiting companies careers pages. I scrap the web pages to find any updates on specific job roles at specific companies.
+
 **The Dream project** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
 
 
 # Work projects
+
+## Impakter
+**[Impakter_Index]** is an internal dashboard which I am currently working on at [Impakter](https://impakter.com/).
+I am working on to build an app which scraps the web directories and uses APIs to retrieve information from the web sources. The app sends updates to Analysts at Impakter saving a lot of time spent. See the flow diagram [here](https://walktheearth.in/wp-content/uploads/2020/10/Index-scaled.jpg)
 
 ## Energy Innovations
 **[EneryInnovations-ML](https://github.com/thyaravind/EnergyInnovations-ML)** is a data exploration and machine learning project which I did
