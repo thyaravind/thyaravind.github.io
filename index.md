@@ -28,11 +28,11 @@ I used Neural Networks to accurately predict Building's Energy demand.
 **[EnergyInnovations-ProjectMonitor]** While I was at ASU, I took an initiative to create a central database and a flask app, to monitor and track Energy conservation projects at ASU. App can be accessed upon [request](mailto:asamala1@asu.edu).
 
 ## Jotjoy
-**[Jotjoy Customer Analysis](https://github.com/thyaravind/Jotjoy)** At Jotjoy, we achieved sales right from the day one. But, we needed more robust marketing strategy inorder to scale up. So, we embarked on Customer Analysis using the order transactions and CRM data which we have. No wonder why Jotjoy's sales increased 23% after implementation of Cusotmer Analysis and Online experimentation.
+**[Jotjoy Customer Analysis]** At [Jotjoy](www.jotjoy.com), we achieved sales right from the day one. But, we needed more robust marketing strategy inorder to scale up. So, we embarked on Customer Analysis using the order transactions and CRM data which we have. No wonder why Jotjoy's sales increased 23% after implementation of Cusotmer Analysis and Online experimentation. Dashboard can be accessed upon [request](mailto:asamala1@asu.edu)
 *note: Visualizations and Customer data is masked due to privacy reasons.
 
 ## Rewind App
-**[RewindNet](https://github.com/thyaravind/RewindNet)** I was asked to develop a machine learning model by my friends at ASU who embarked on their journey of starting a startup. I developed a face recognition model, a recommedation system and speech recognition model using some open source libraries and pre-trained models.
+**[RewindNet]** I was asked to develop a machine learning model by my friends at ASU who embarked on their journey of starting a startup. I developed a face recognition model, a recommedation system and speech recognition model using some open source libraries and pre-trained models. App can be accessed upon [request](mailto:asamala1@asu.edu)
 
 
 # Other projects
