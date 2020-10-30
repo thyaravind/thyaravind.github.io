@@ -9,9 +9,9 @@ These are the projects which I did/do just to answer the questions which arise i
 Read my detailed explanation about this project on my blog series [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
 Or check out the code [here](https://github.com/thyaravind/IO)
 
-**Job Application tracker:** I built this to save my time visiting companies careers pages. I scrap the web pages to find any updates on specific job roles at specific companies.
+I built **[Job Application tracker](https://github.com/thyaravind/SurApp)** to save my time visiting companies careers pages to find any new job postings. I scrap the web pages to find any new updates on specific job roles at specific companies. checkout the code [here](https://github.com/thyaravind/SurApp)
 
-**The Dream project** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
+**The Dream project:** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
 
 
 # Work projects
@@ -25,20 +25,20 @@ I am working on to build an app which scraps the web directories and uses APIs t
 when I was working at Arizona State University's Facilities Management. I was involved right from the data collection and 
 I used Neural Networks to accurately predict Building's Energy demand.
 
-**[EnergyInnovations-ProjectMonitor]** While I was at ASU, I took an initiative to create a central database and a flask app, to monitor and track Energy conservation projects at ASU. App can be accessed upon [request](mailto:asamala1@asu.edu).
+**EnergyInnovations-ProjectMonitor:** While I was at ASU, I took an initiative to create a central database and a flask app, to monitor and track Energy conservation projects at ASU. App can be accessed upon [request](mailto:asamala1@asu.edu).
 
 ## Jotjoy
-**[Jotjoy Customer Analysis]** At [Jotjoy](www.jotjoy.com), we achieved sales right from the day one. But, we needed more robust marketing strategy inorder to scale up. So, we embarked on Customer Analysis using the order transactions and CRM data which we have. No wonder why Jotjoy's sales increased 23% after implementation of Cusotmer Analysis and Online experimentation. Dashboard can be accessed upon [request](mailto:asamala1@asu.edu)
+**Jotjoy Customer Analysis:** At [Jotjoy](www.jotjoy.com), we achieved sales right from the day one. But, we needed more robust marketing strategy inorder to scale up. So, we embarked on Customer Analysis using the order transactions and CRM data which we have. No wonder why Jotjoy's sales increased 23% after implementation of Cusotmer Analysis and Online experimentation. Dashboard can be accessed upon [request](mailto:asamala1@asu.edu)
 *note: Visualizations and Customer data is masked due to privacy reasons.
 
 ## Rewind App
-**[RewindNet]** I was asked to develop a machine learning model by my friends at ASU who embarked on their journey of starting a startup. I developed a face recognition model, a recommedation system and speech recognition model using some open source libraries and pre-trained models. App can be accessed upon [request](mailto:asamala1@asu.edu)
+**RewindNet:** I was asked to develop a machine learning model by my friends at ASU who embarked on their journey of starting a startup. I developed a face recognition model, a recommedation system and speech recognition model using some open source libraries and pre-trained models. App can be accessed upon [request](mailto:asamala1@asu.edu)
 
 
 # Other projects
 
 ## Machine learning
-**[Depression Detect](https://github.com/thyaravind/Depression_detection)** After my graduation, I needed some project to hone my deep learning skills. So, myself along with 4 others started working on a summer project to detect depression using speech.
+**Depression Detection** After my graduation, I needed some project to hone my deep learning skills. So, myself along with 4 others started working on a summer project to detect depression using speech. See the code [here](https://github.com/thyaravind/Depression_detection)
 
 
 ## Exploratory Data Analysis
