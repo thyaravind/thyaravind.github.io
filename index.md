@@ -18,7 +18,7 @@ I built **[Job Application tracker](https://github.com/thyaravind/SurApp)** to s
 
 ## Impakter
 **[Impakter_Index]** is an internal dashboard which I am currently working on at [Impakter](https://impakter.com/).
-I am working on to build an app which scraps the web directories and uses APIs to retrieve information from the web sources. The app sends updates to Analysts at Impakter saving a lot of time spent. See the flow diagram [here](https://walktheearth.in/wp-content/uploads/2020/10/Index-scaled.jpg)
+I started working with a team to build an app which scraps the web directories and uses APIs to retrieve information from the web sources. The app sends updates to Analysts at Impakter saving a lot of time spent browsing data on the web.
 
 ## Energy Innovations
 **[EneryInnovations-ML](https://github.com/thyaravind/EnergyInnovations-ML)** is a data exploration and machine learning project which I did
