@@ -5,13 +5,13 @@ Here are the projects which I completed either out of my curiosity. (or my boss 
 # Curiosity projects
 These are the projects which I did/do just to answer the questions which arise in my mind.
 
-**The I/O project** is the result of my curiosity to find out the correlations between our food intake, sleep, activity and our performance.
+1. **The I/O project** is the result of my curiosity to find out the correlations between our food intake, sleep, activity and our performance.
 Read my detailed explanation about this project on my blog series [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
 Or check out the code [here](https://github.com/thyaravind/IO)
 
-I built **[Job Application tracker](https://github.com/thyaravind/SurApp)** to save my time visiting companies careers pages to find any new job postings. I scrap careers web pages of the companies I would love to join, to find any new updates on specific job roles. checkout the code [here](https://github.com/thyaravind/SurApp)
+2. I built **[Job Application tracker](https://github.com/thyaravind/SurApp)** to save my time visiting companies careers pages to find any new job postings. I scrap careers web pages of the companies I would love to join, to find any new updates on specific job roles. checkout the code [here](https://github.com/thyaravind/SurApp)
 
-**The Dream project:** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
+3. **The Dream project:** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
 
 
 # Work projects
