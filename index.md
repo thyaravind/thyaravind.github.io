@@ -9,16 +9,21 @@ These are the projects which I did/do just to answer the questions which arise i
 Read my detailed explanation about this project on my blog series [here](https://medium.com/@aravindsamala/finding-answers-about-humans-using-data-2abf706df867)
 Or check out the code [here](https://github.com/thyaravind/IO)
 
-I built **[Job Application tracker](https://github.com/thyaravind/SurApp)** to save my time visiting companies careers pages to find any new job postings. I scrap the web pages to find any new updates on specific job roles at specific companies. checkout the code [here](https://github.com/thyaravind/SurApp)
+I built **[Job Application tracker](https://github.com/thyaravind/SurApp)** to save my time visiting companies careers pages to find any new job postings. I scrap careers web pages of the companies I would love to join, to find any new updates on specific job roles. checkout the code [here](https://github.com/thyaravind/SurApp)
 
 **The Dream project:** This is nothing like what you just thought. I capture my dreams(yeah, literal dreams) and look for any correlations from my past. Read more about this project [here](https://walktheearth.in/category/sapiens-by-aravindsamala/)
 
 
 # Work projects
 
+## Inrika
+**[Impakter_Index](https://github.com/thyaravind/Impakter)** are a set of tools which we are developing at [Impakter](https://impakter.com/).
+I started working with a team to build these tools which scraps the web directories and uses APIs to retrieve information from the web sources. One of the tool sends updates to Analysts at Impakter saving a lot of time spent browsing data on the web. Another one helps companies achieve sustainability by providing real time strategies. Yet another one is aimed to help non profits and global sustainability movement to take Sustainability of companies to another level
+
+
 ## Impakter
-**[Impakter_Index]** is an internal dashboard which I am currently working on at [Impakter](https://impakter.com/).
-I started working with a team to build an app which scraps the web directories and uses APIs to retrieve information from the web sources. The app sends updates to Analysts at Impakter saving a lot of time spent browsing data on the web.
+**[InrikaIRMS]** is an internal sales management web application which I am currently building at Inrika Inc.
+
 
 ## Energy Innovations
 **[EneryInnovations-ML](https://github.com/thyaravind/EnergyInnovations-ML)** is a data exploration and machine learning project which I did
